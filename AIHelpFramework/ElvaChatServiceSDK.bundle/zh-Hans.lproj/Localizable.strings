@@ -1,0 +1,18 @@
+//中文简体zh-Hans
+"content_too_long"="不能超过%ld个字！";
+"ContactCustomerService" = "联系客服";
+"self_service_interface" = "自助服务";
+"offLine"= "您的链接已经断开,请重新进入!";
+"CustomerService"="HELP";
+"elva__mark_helpful_toast"="你发现这有帮助";
+"elva__mark_unhelpful_toast"="你发现这无帮助";
+"elva__mark_yes_no_question"="这有帮助吗";
+"elva__mark_no"="否";
+"elva__mark_yes"="是";
+"RewardBalance"="您的积分余额:";
+"GoTo" = "到";
+"Forum" = "问答社区";
+"RewardSuccess" = "打赏成功";
+"RewardFailure" = "打赏失败";
+"TokenInsufficient" = "余额不足";
+"NeedMoreHelp" = "需要更多帮助？";

@@ -1,6 +1,0 @@
-framework module XYIM {
-  umbrella header "XYIM.h"
-
-  export *
-  module * { export * }
-}
