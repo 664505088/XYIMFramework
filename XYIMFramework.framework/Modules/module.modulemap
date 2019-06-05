@@ -1,0 +1,6 @@
+framework module XYIMFramework {
+  umbrella header "XYIMFramework.h"
+
+  export *
+  module * { export * }
+}
